@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ES2016",
+        ],
+        "module": "ES2015",
+        "outDir": "dist",
+        "rootDir": "src",
+        "target": "ES2016",
+        "typeRoots": [
+            "./vendor/types",
+        ],
+    },
+}
